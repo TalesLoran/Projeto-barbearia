@@ -1,1 +1,1 @@
-https://github.com/TalesLoran/Projeto-barbearia
+https://talesloran.github.io/Projeto-barbearia/
